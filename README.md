@@ -1,6 +1,6 @@
 # only_phenome_prediction_code
 ## This directory contains two directories and a file
- linear_feature_selection_method: This directory contains code for 14 models to be trained\validated with linearly selected features using phenomic data
+ <br>linear_feature_selection_method: This directory contains code for 14 models to be trained\validated with linearly selected features using phenomic data<br/>
  non_linear_feature_selection_method: This directory contains code for 14 models to be trained\validated with non-linear selected features using phenomic data
  rfFuncs_recursive_FS.r: This file is the code for feature selection using phenomic data
 
